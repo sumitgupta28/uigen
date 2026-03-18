@@ -1,6 +1,7 @@
 {
   "permissions": {
     "allow": [
+      "mcp__playwright",
       "Bash(git commit:*)",
       "Bash(git add:*)"
     ]
